@@ -1,0 +1,13 @@
+{
+    "name": "f1r3starter/messagebird",
+    "description": "Test assignment",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Application\\" : "src/"
+        }
+    },
+    "require": {
+        "messagebird/php-rest-api": "^1.10"
+    }
+}
