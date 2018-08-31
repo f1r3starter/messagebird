@@ -6,7 +6,8 @@ So, when I first read an assignment, I saw a requirement:
 
 So my thoughts were like:
 
-![Thoughts](assets/2.jpg)
+<img src="assets/2.jpg" width="250">
+
 
 But after that I saw:
 
@@ -43,4 +44,4 @@ php src/start.php
 
 All configs are located in the [config.php](config.php) file.
 
-Thats all, have a nice day!
+Thats all, have a good day!
